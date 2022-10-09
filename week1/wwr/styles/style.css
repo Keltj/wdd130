@@ -19,7 +19,7 @@ header {
 }
 
 .book:hover, .join:hover {
-    background-image: #8ECAE6;
+    background-color: #8ECAE6;
     color: white;
 }
 
