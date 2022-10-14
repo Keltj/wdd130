@@ -1,0 +1,20 @@
+body {
+    background-color: #737373;
+    margin: 0;
+    padding: 0;
+
+}
+
+.top > img {
+    width: 100%;
+}
+
+.images > img {
+    display: inline;
+    border-radius: 50%;
+    border-width: 1.5em;
+    border-color: #444444;
+    border-style: solid;
+    width: 20%;
+    margin: 70px;
+}
