@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Grape+Nuts&family=Oswald:wght@300&display=swap');
 
 body {
     background-color: #023047;
     font-size: 22px;
-    font-family: "Oswald", Helvetica, sans-serif;
+    font-family: Oswald, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
 }
 
 h2 {
-    font-family: "Grape Nuts";
+    font-family: 'Grape Nuts', 'Fuzzy Bubbles', cursive;
     margin: 0;
 }
 
@@ -29,7 +29,7 @@ header {
     color: #8ECAE6;
     text-decoration: none;
     font-size: 18px;
-    font-family: "Oswald", Helvetica, sans-serif;
+    font-family: Oswald, Helvetica, sans-serif;
     padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
@@ -41,7 +41,7 @@ header {
 }
 
 #content {
-    max-width: 1600px;
+    /* max-width: 1600px; */
     margin: 0 auto;
 }
 
@@ -49,7 +49,7 @@ nav a {
     text-align: center;
     color: #023047;
     text-decoration: none;
-    font-family: "Oswald", Helvetica, sans-serif;
+    font-family: Oswald, Helvetica, sans-serif;
     padding: 35px;
 }
 
@@ -81,31 +81,31 @@ footer {
     background-color: #8ECAE6;
     color: #023047;
     font-size: 1.2em;
-    font-family: "Oswald", Helvetica, sans-serif;
+    font-family: Oswald, Helvetica, sans-serif;
     padding: 25px 50px;
     margin-top: 50px;
 }
 
 .home-title {
     color: #8ECAE6;
-    font-family: "Grape Nuts";
+    font-family: 'Grape Nuts', 'Fuzzy Bubbles', cursive;
     font-size: 2em;
     margin-top: 10px;
 }
 
 h4 {
     color: #8ECAE6;
-    font-family: "Grape Nuts";
+    font-family: 'Grape Nuts', 'Fuzzy Bubbles', cursive;
 }
 
 .msg h2 {
     color: #023047;
-    font-family: "Grape Nuts";
+    font-family: 'Grape Nuts', 'Fuzzy Bubbles', cursive;
 }
 
 .msg p {
     color: #023047;
-    font-family: "Oswald", Helvetica, sans-serif;
+    font-family: Oswald, Helvetica, sans-serif;
     font-size: .8em;
     padding-bottom: 15px;
 }
